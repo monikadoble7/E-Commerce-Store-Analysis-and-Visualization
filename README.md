@@ -96,5 +96,6 @@ Feel free to:
 This project is licensed under the **MIT License**.
 
 ---
-
-Would you like me to generate the same as a `README.md` file you can directly upload to GitHub?
+Name: Monika Doble
+Phone:9890884532
+Email: monikadoble7@gmail.com
